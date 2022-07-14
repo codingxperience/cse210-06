@@ -1,3 +1,8 @@
+"""
+Author: Fred Okorio
+Task: Code the the alien class with methods
+"""
+
 from constants import *
 from game.casting.actor import Actor
 from game.shared.point import Point

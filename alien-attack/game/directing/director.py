@@ -1,3 +1,8 @@
+"""
+Author: Fred Okorio
+Task: Build director class with methods
+"""
+
 from constants import *
 
 from game.casting.sound import Sound

@@ -1,3 +1,8 @@
+"""
+Author: Fred Okorio
+Task: Code the the actor class with methods
+"""
+
 from constants import *
 from game.shared.color import Color
 from game.shared.point import Point

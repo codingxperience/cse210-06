@@ -1,3 +1,8 @@
+"""
+Aurthor: Fred Okorio
+Task: Code the the ship class with methods
+""" 
+
 from constants import *
 from game.casting.actor import Actor
 from game.shared.point import Point
